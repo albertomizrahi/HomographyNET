@@ -1,6 +1,5 @@
 # COS 529 Research Project
-**Author:** Alberto Mizrahi
-Spring 2019
+**Author:** Alberto Mizrahi, Spring 2019
 
 A description of the relevant files in this repo:
 - **Generating Homography Data.ipynb:** This Jupyter notebook describes and illustrates the process of generating a training homography example from a given image.

@@ -1,0 +1,8 @@
+Nonrepo_Stuff/
+.idea/
+__pycache__/
+COS-529.pem
+cvpr2019AuthorKit/
+Good\ weights/*.json
+Good\ weights/*.h5
+Good\ weights/*.pickle
